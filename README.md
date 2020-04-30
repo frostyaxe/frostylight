@@ -41,6 +41,17 @@ stepDescriptor = new StepDescriptor(driver);
  element.click();
  ```
  
+ ## Glimpse
+ ```
+                                           Element Highlighter
+ ```
+  ![](gifs/element-highlighter.gif)
+
+```
+                                           Step Descriptor
+```
+  ![](gifs/step-descriptor.gif)
+ 
  ## Built With
 
 * [Java](https://docs.oracle.com/javase/8/docs/) - The programming language used
@@ -50,6 +61,9 @@ stepDescriptor = new StepDescriptor(driver);
 
 * **Abhishek Prajapati** - *Initial work* - [Frostyaxe](https://github.com/frostyaxe)
 
+# Contact
 
+* **GitHub:** [Frostyaxe](https://github.com/frostyaxe)
+*  **Gmail:** *prajapatiabhishek1996@gmail.com*
 
  
