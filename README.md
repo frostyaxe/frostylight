@@ -1,4 +1,5 @@
-# Frostylight
+# Frostylight <img src="https://github.com/frostyaxe/frostylight/blob/master/gifs/icon.png" width="6%" height="6%">
+
 Frostylight is a shared java library that can be use to configure the selenium element highlighter and step descriptor. Selenium element highlighter can highlight the element during the execution of selenium test script and step descriptor can display the message in a container on the web page while executing the test script. User can modify the style of the highlighter as well as can use the custom colors in both element highlighter and step descriptor.
 
 ### Starting the test:
