@@ -21,12 +21,12 @@ You need to have Java 1.8 or higher. Add the below dependency in your maven POM 
 ### Usage
 * **Step 1:** Create the instance of ChromeDriver, ElementHighlighter and StepDescriptor as shown below.
 ```
-	private WebDriver driver = null;							
-	private ElementHighlighter frostyHighlighter = null;
-	private StepDescriptor stepDescriptor = null;		
- driver = new ChromeDriver();
- frostyHighlighter = new ElementHighlighter(driver);
- stepDescriptor = new StepDescriptor(driver);
+private WebDriver driver = null;							
+private ElementHighlighter frostyHighlighter = null;
+private StepDescriptor stepDescriptor = null;		
+driver = new ChromeDriver();
+frostyHighlighter = new ElementHighlighter(driver);
+stepDescriptor = new StepDescriptor(driver);
  ```
  
  * **Step 2:** Configuration of StepDescriptor can be done as shown below. You need to add it before performing any action in the web page.
